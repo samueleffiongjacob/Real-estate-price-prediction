@@ -1,0 +1,64 @@
+Property ID,Property Type,Address,City,State,Zip Code,Price,Bedrooms,Bathrooms,Square Footage
+1,Single Family,123 Oak St,Springfield,IL,62701,"$250,000 ",3,2,1500
+2,Condo,456 Pine Ave,Chicago,IL,60601,"$350,000 ",2,1,1000
+3,Townhouse,789 Maple Dr,Springfield,IL,62702,"$300,000 ",3,2.5,1600
+4,Multi-Family,101 Birch Blvd,Urbana,IL,61801,"$500,000 ",6,4,2400
+5,Single Family,222 Cedar Lane,Decatur,IL,62521,"$220,000 ",4,2,1400
+6,Condo,333 Elm St,Chicago,IL,60616,"$300,000 ",2,2,900
+7,Townhouse,444 Maple Ave,Joliet,IL,60431,"$320,000 ",3,2.5,1700
+8,Single Family,555 Oak St,Naperville,IL,60540,"$500,000 ",4,3,2100
+9,Multi-Family,666 Pine Blvd,Aurora,IL,60505,"$600,000 ",8,5,3000
+10,Condo,777 Cedar Ln,Rockford,IL,61101,"$230,000 ",2,2,1100
+11,Single Family,888 Walnut St,Joliet,IL,60432,"$270,000 ",3,2,1550
+12,Townhouse,999 Cherry Ln,Naperville,IL,60540,"$330,000 ",3,2.5,1800
+13,Single Family,1111 Birch St,Aurora,IL,60506,"$220,000 ",4,2,1450
+14,Condo,1212 Pine Ln,Chicago,IL,60622,"$310,000 ",2,2,950
+15,Multi-Family,1313 Oak Ave,Rockford,IL,61108,"$720,000 ",6,5,3500
+16,Townhouse,1414 Cedar Blvd,Joliet,IL,60431,"$340,000 ",3,2.5,1900
+17,Single Family,1515 Maple St,Decatur,IL,62521,"$240,000 ",4,2,1600
+18,Condo,1616 Oak Ln,Springfield,IL,62704,"$280,000 ",2,1.5,1200
+19,Multi-Family,1717 Pine St,Aurora,IL,60506,"$800,000 ",7,4,3200
+20,Single Family,1818 Walnut Blvd,Chicago,IL,60611,"$300,000 ",4,3,2000
+21,Condo,1919 Cedar St,Rockford,IL,61109,"$270,000 ",2,2,1050
+22,Townhouse,2020 Elm St,Joliet,IL,60434,"$360,000 ",3,2.5,1750
+23,Single Family,2121 Maple Ave,Naperville,IL,60563,"$450,000 ",4,3,2100
+24,Multi-Family,2222 Birch Blvd,Urbana,IL,61801,"$610,000 ",5,3,2700
+25,Single Family,2323 Oak Dr,Springfield,IL,62703,"$280,000 ",3,2,1400
+26,Townhouse,2424 Pine Ln,Chicago,IL,60615,"$310,000 ",3,2.5,1800
+27,Condo,2525 Walnut Ave,Rockford,IL,61102,"$290,000 ",2,2,1100
+28,Multi-Family,2626 Cedar Ln,Aurora,IL,60506,"$650,000 ",8,5,2900
+29,Single Family,2727 Maple Blvd,Decatur,IL,62521,"$310,000 ",4,3,1950
+30,Townhouse,2828 Oak St,Joliet,IL,60432,"$350,000 ",3,2.5,1850
+31,Single Family,2929 Birch Ave,Naperville,IL,60563,"$265,000 ",3,2,1500
+32,Multi-Family,3030 Pine Dr,Chicago,IL,60652,"$900,000 ",9,5,4000
+33,Condo,3131 Walnut St,Rockford,IL,61107,"$275,000 ",2,2,1150
+34,Single Family,3232 Maple St,Springfield,IL,62701,"$245,000 ",3,2,1400
+35,Townhouse,3333 Oak Ave,Aurora,IL,60505,"$335,000 ",3,2.5,1600
+36,Multi-Family,3434 Cedar Blvd,Urbana,IL,61802,"$720,000 ",6,4,3000
+37,Single Family,3535 Pine Ln,Naperville,IL,60540,"$290,000 ",4,2,1650
+38,Condo,3636 Walnut Ave,Joliet,IL,60431,"$310,000 ",2,1.5,1020
+39,Townhouse,3737 Birch St,Chicago,IL,60618,"$320,000 ",3,2,1750
+40,Multi-Family,3838 Oak St,Aurora,IL,60506,"$580,000 ",7,4,2900
+41,Single Family,3939 Maple Ave,Rockford,IL,61108,"$270,000 ",3,2,1400
+42,Condo,4040 Pine Dr,Decatur,IL,62521,"$220,000 ",2,1,900
+43,Townhouse,4141 Walnut Blvd,Springfield,IL,62704,"$330,000 ",3,2.5,1600
+44,Multi-Family,4242 Birch Ln,Naperville,IL,60563,"$700,000 ",8,5,2800
+45,Single Family,4343 Oak Ln,Joliet,IL,60434,"$250,000 ",3,2,1450
+46,Condo,4444 Elm St,Chicago,IL,60625,"$390,000 ",2,2,1150
+47,Townhouse,4545 Maple Blvd,Aurora,IL,60506,"$340,000 ",3,2.5,1750
+48,Multi-Family,4646 Cedar Ave,Rockford,IL,61107,"$920,000 ",10,6,3900
+49,Single Family,4747 Pine Blvd,Springfield,IL,62701,"$260,000 ",4,3,1600
+50,Condo,4848 Walnut Ave,Naperville,IL,60563,"$310,000 ",2,2,1050
+51,Single Family,4949 Birch Dr,Decatur,IL,62521,"$230,000 ",3,2,1400
+52,Multi-Family,5050 Cedar Blvd,Joliet,IL,60431,"$1,000,000 ",6,4,3500
+53,Townhouse,5151 Oak St,Aurora,IL,60505,"$380,000 ",3,2.5,2000
+54,Condo,5252 Maple Ave,Chicago,IL,60616,"$420,000 ",2,2,1100
+55,Single Family,5353 Pine Dr,Rockford,IL,61105,"$310,000 ",4,3,1750
+56,Multi-Family,5454 Birch Blvd,Urbana,IL,61801,"$900,000 ",5,3,3600
+57,Townhouse,5555 Oak Ln,Springfield,IL,62702,"$390,000 ",3,2.5,2000
+58,Single Family,5656 Walnut Ave,Naperville,IL,60563,"$270,000 ",3,2,1450
+59,Condo,5757 Pine St,Decatur,IL,62521,"$220,000 ",2,1,900
+60,Multi-Family,5858 Cedar Blvd,Joliet,IL,60434,"$750,000 ",8,5,3100
+61,Single Family,5959 Maple Ave,Chicago,IL,60622,"$350,000 ",4,3,2100
+62,Townhouse,6060 Oak St,Aurora,IL,60506,"$360,000 ",3,2.5,1750
+Get smarter answer from GPT-4o,,,,,,,,,
